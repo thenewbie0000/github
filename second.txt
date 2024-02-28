@@ -1,4 +1,3 @@
-Text on second branch
-Edited on github
+Text on rojesh branch
 Now edited on the rojesh branch 
-ready to be merged on main branch
+Ready to be merged to the main branch
